@@ -1,0 +1,132 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello there! How can I assist you today?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi there! What would you like to talk about?"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "I'm an adaptive learning chatbot. You can call me Nexus!"
+    },
+    {
+      "question": "Who created you?",
+      "answer": "I was developed by a programmer who loves building AI assistants!"
+    },
+    {
+      "question": "What can you do?",
+      "answer": "I can answer questions, learn new things from you, and have conversations. Try asking me anything!"
+    },
+    {
+      "question": "How does weather work?",
+      "answer": "Weather is caused by temperature differences, air pressure systems, and moisture in the atmosphere interacting with Earth's rotation."
+    },
+    {
+      "question": "Explain AI simply",
+      "answer": "AI is like teaching computers to learn from experience and perform human-like tasks such as recognizing speech or making decisions."
+    },
+    {
+      "question": "Python vs JavaScript",
+      "answer": "Python is great for data/science/backend, while JavaScript powers web interactivity. Both are popular but serve different purposes."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "ML is a type of AI where systems learn from data patterns without explicit programming, improving their performance over time."
+    },
+    {
+      "question": "How do I start programming?",
+      "answer": "Begin with Python - it's beginner-friendly! Focus on fundamentals like variables, loops, and functions before tackling projects."
+    },
+    {
+      "question": "Best programming language?",
+      "answer": "There's no 'best' language! Python is great for beginners, JavaScript for web, Java for enterprise, C++ for performance."
+    },
+    {
+      "question": "What is JSON?",
+      "answer": "JSON (JavaScript Object Notation) is a lightweight data format that's easy for humans to read and machines to parse. I use it to store knowledge!"
+    },
+    {
+      "question": "Tell me about space",
+      "answer": "Space is vast and mysterious! Did you know there are more stars in the universe than grains of sand on all Earth's beaches?"
+    },
+    {
+      "question": "How does the internet work?",
+      "answer": "Computers communicate through networks using protocols like TCP/IP. Data travels in packets through routers and servers worldwide."
+    },
+    {
+      "question": "What is GitHub?",
+      "answer": "GitHub is a platform for developers to store, share, and collaborate on code using version control with Git."
+    },
+    {
+      "question": "Explain neural networks",
+      "answer": "Neural networks are computing systems inspired by human brains, with interconnected nodes that process information in layers to recognize patterns."
+    },
+    {
+      "question": "How to learn AI?",
+      "answer": "Start with Python, then learn libraries like NumPy/pandas, followed by ML frameworks like TensorFlow/PyTorch. Practice with projects!"
+    },
+    {
+      "question": "Goodbye",
+      "answer": "Goodbye! Thanks for chatting. Come back anytime!"
+    },
+    {
+      "question": "See you later",
+      "answer": "See you soon! Feel free to teach me more when you return."
+    },
+    {
+      "question": "Bye",
+      "answer": "Bye! Don't hesitate to ask if you have more questions later."
+    },
+    {
+      "question": "Thanks",
+      "answer": "You're welcome! Happy to help."
+    },
+    {
+      "question": "Thank you",
+      "answer": "My pleasure! What else would you like to know?"
+    },
+    {
+      "question": "What time is it?",
+      "answer": "I don't have real-time access, but you can check your device's clock!"
+    },
+    {
+      "question": "Tell a joke",
+      "answer": "Why do Python developers prefer dark mode? Because light attracts bugs!"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I'm a knowledge-driven chatbot that learns from conversations. The more you teach me, the smarter I become!"
+    },
+    {
+      "question": "How do you work?",
+      "answer": "I use fuzzy matching to find similar questions in my knowledge base. When I don't know something, I ask you to teach me!"
+    },
+    {
+      "question": "What's new?",
+      "answer": "I'm constantly learning! Users like you help expand my knowledge base with new information every day."
+    },
+    {
+      "question": "Favorite programming language?",
+      "answer": "I'm partial to Python since it powers my core functions, but all languages have their strengths!"
+    },
+    {
+      "question": "Explain APIs",
+      "answer": "APIs (Application Programming Interfaces) allow different software systems to communicate using defined protocols and data formats."
+    },
+    {
+      "question": "What is Docker?",
+      "answer": "Docker is a platform for developing, shipping, and running applications in isolated containers for consistency across environments."
+    },
+    {
+      "question": "Cloud computing explained",
+      "answer": "Cloud computing delivers computing services over the internet, including storage, processing, and databases, without direct hardware management."
+    },
+    {
+      "question": "How to improve coding skills?",
+      "answer": "Practice daily, read others' code, contribute to open-source, and build projects that challenge you!"
+    }
+  ]
+}
